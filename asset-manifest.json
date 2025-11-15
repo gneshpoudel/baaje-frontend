@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baaje-electronics/static/css/main.b2292257.css",
+    "main.js": "/baaje-electronics/static/js/main.3a92399d.js",
+    "index.html": "/baaje-electronics/index.html",
+    "main.b2292257.css.map": "/baaje-electronics/static/css/main.b2292257.css.map",
+    "main.3a92399d.js.map": "/baaje-electronics/static/js/main.3a92399d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2292257.css",
+    "static/js/main.3a92399d.js"
+  ]
+}
